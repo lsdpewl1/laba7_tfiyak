@@ -1,0 +1,60 @@
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\obj\Debug\laba1.csproj.AssemblyReference.cache
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\bin\Debug\laba1.exe.config
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\bin\Debug\laba1.exe
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\bin\Debug\laba1.pdb
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\bin\Debug\FastColoredTextBox.dll
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\bin\Debug\FastColoredTextBox.xml
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\obj\Debug\laba1.Form1.resources
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\obj\Debug\laba1.csproj.CopyComplete
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\obj\Debug\laba1.exe
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 3-4\laba1-kursach\obj\Debug\laba1.pdb
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\obj\Debug\laba1.csproj.AssemblyReference.cache
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\obj\Debug\laba1.Form1.resources
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\obj\Debug\laba1.exe
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\obj\Debug\laba1.pdb
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\bin\Debug\laba1.exe.config
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\bin\Debug\laba1.exe
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\bin\Debug\laba1.pdb
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\bin\Debug\FastColoredTextBox.dll
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\bin\Debug\FastColoredTextBox.xml
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\тетрады\ТЕТРАДЫ\obj\Debug\laba1.csproj.CopyComplete
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\bin\Debug\laba1.exe.config
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\bin\Debug\laba1.exe
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\bin\Debug\laba1.pdb
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\bin\Debug\FastColoredTextBox.dll
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\bin\Debug\FastColoredTextBox.xml
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\obj\Debug\laba1.csproj.AssemblyReference.cache
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\obj\Debug\laba1.Form1.resources
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\obj\Debug\laba1.csproj.CopyComplete
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\obj\Debug\laba1.exe
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 5\ТЕТРАДЫ\obj\Debug\laba1.pdb
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\bin\Debug\laba1.exe.config
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\bin\Debug\laba1.exe
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\bin\Debug\laba1.pdb
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\bin\Debug\FastColoredTextBox.dll
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\bin\Debug\FastColoredTextBox.xml
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\obj\Debug\laba1.csproj.AssemblyReference.cache
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\obj\Debug\laba1.Form1.resources
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\obj\Debug\laba1.csproj.CopyComplete
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\obj\Debug\laba1.exe
+C:\Users\Anastasia\Documents\УНИВЕРСИТЕТ НГТУ\сем 6\ТФЯиК\лаба 7\laba7_tfiyak\obj\Debug\laba1.pdb
