@@ -13,3 +13,7 @@ L(G[STMT]) = {((if (EXPR))^n (else)^m)^k | n > 0 m>=0 k>0}
 ## Классификация грамматики
 Контексто-свободная
 ## Тестовые примеры
+<img src = "ex1.jpg">
+<img src = "ex2.jpg">
+<img src = "ex3.jpg">
+<img src = "ex4.jpg">

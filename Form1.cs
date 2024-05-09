@@ -138,6 +138,11 @@ namespace laba1
             //label1.Visible = true;
             dataGridView2.Visible = true;
             dataGridView1.Visible = false;
+
+
+
+
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -174,6 +179,9 @@ namespace laba1
 
             System.Windows.Forms.ToolTip t11 = new System.Windows.Forms.ToolTip();
             t11.SetToolTip(buttonPlay, "Пуск");
+
+
+            
         }
         private void buttonHelp_Click(object sender, EventArgs e) { Help(); }
         private void helpToolStripMenuItem_Click(object sender, EventArgs e) { Help(); }

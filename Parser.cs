@@ -187,6 +187,15 @@ namespace laba1
 
             //Console.WriteLine(result);
             dataGridView1.Rows.Add(result);
+
+            dataGridView1.DefaultCellStyle.WrapMode = DataGridViewTriState.True;
+            dataGridView1.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
+
+            foreach (DataGridViewColumn col in dataGridView1.Columns)
+            {
+                col.DefaultCellStyle.WrapMode = DataGridViewTriState.True;
+            }
+
         }
 
     }
