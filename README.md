@@ -4,7 +4,7 @@
 G[STMT]:
 1. STMT :== if “(” EXPR “)” STMT | if “(” EXPR “)” STMT else
 STMT | ε
-2. EXPR :== VARIABLE OPERATOR VALUE
+2. EXPR :== VARIABLE OPERATOR VALUE</br>
 VALUE – числовая константа Ц{Ц}, VARIABLE – переменная
 Б{Б|Ц}, Б – {a, b, c, ...z, A, B, …, Z}, Ц – {0, 1, …, 9}, OPERATOR – ”==” |
 ”<” | ”<=” | ”>” | ”>=” | ”!=”
